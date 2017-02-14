@@ -1,0 +1,103 @@
+﻿  RoomSearch.cpp
+RoomSearch.cpp(233): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+RoomSearch.cpp(236): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+RoomSearch.cpp(239): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(242): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(245): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(149): warning C4101: “hMenu”: 未引用的局部变量
+RoomSearch.cpp(150): warning C4101: “hIcon”: 未引用的局部变量
+RoomSearch.cpp(164): warning C4101: “i”: 未引用的局部变量
+RoomSearch.cpp(1314): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+RoomSearch.cpp(1320): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+RoomSearch.cpp(1321): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+RoomSearch.cpp(1328): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+RoomSearch.cpp(1331): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+RoomSearch.cpp(1358): warning C4101: “roomTail”: 未引用的局部变量
+RoomSearch.cpp(1441): warning C4101: “iAns”: 未引用的局部变量
+RoomSearch.cpp(1439): warning C4101: “hdc”: 未引用的局部变量
+RoomSearch.cpp(1438): warning C4101: “k”: 未引用的局部变量
+RoomSearch.cpp(1435): warning C4101: “szPrint”: 未引用的局部变量
+RoomSearch.cpp(1437): warning C4101: “err”: 未引用的局部变量
+RoomSearch.cpp(1436): warning C4101: “comTail”: 未引用的局部变量
+RoomSearch.cpp(1524): warning C4101: “iAns”: 未引用的局部变量
+RoomSearch.cpp(1520): warning C4101: “szPrint”: 未引用的局部变量
+RoomSearch.cpp(1521): warning C4101: “buiTail”: 未引用的局部变量
+RoomSearch.cpp(1717): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+RoomSearch.cpp(1718): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+RoomSearch.cpp(1636): warning C4101: “iAns”: 未引用的局部变量
+RoomSearch.cpp(1632): warning C4101: “szPrint”: 未引用的局部变量
+RoomSearch.cpp(2043): warning C4101: “iTestUnicode”: 未引用的局部变量
+RoomSearch.cpp(2382): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2385): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2388): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2391): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2394): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2397): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2400): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2403): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2405): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2397): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: 参见“swprintf”的声明
+RoomSearch.cpp(2435): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2438): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2441): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2444): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2447): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2450): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2453): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2455): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2447): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: 参见“swprintf”的声明
+RoomSearch.cpp(2485): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2488): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2491): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2494): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2497): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2500): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2503): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2506): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2509): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2515): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2517): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+RoomSearch.cpp(2497): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: 参见“swprintf”的声明
+RoomSearch.cpp(2500): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: 参见“swprintf”的声明
+RoomSearch.cpp(2568): warning C4244: “=”: 从“float”转换到“long”，可能丢失数据
+RoomSearch.cpp(2591): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+RoomSearch.cpp(2681): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: 参见“swprintf”的声明
+RoomSearch.cpp(2610): warning C4101: “pRoom”: 未引用的局部变量
+RoomSearch.cpp(2611): warning C4101: “szBuffer”: 未引用的局部变量
+RoomSearch.cpp(2619): warning C4101: “i”: 未引用的局部变量
+RoomSearch.cpp(2767): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: 参见“swprintf”的声明
+RoomSearch.cpp(2769): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: 参见“swprintf”的声明
+RoomSearch.cpp(2709): warning C4101: “i”: 未引用的局部变量
+RoomSearch.cpp(2989): warning C4101: “iAns”: 未引用的局部变量
+RoomSearch.cpp(2989): warning C4101: “i”: 未引用的局部变量
+RoomSearch.cpp(3112): warning C4101: “iAns”: 未引用的局部变量
+RoomSearch.cpp(3111): warning C4101: “buiTail”: 未引用的局部变量
+RoomSearch.cpp(3245): warning C4101: “iAns”: 未引用的局部变量
+RoomSearch.cpp(3243): warning C4101: “buiTail”: 未引用的局部变量
+RoomSearch.cpp(3244): warning C4101: “roomTail”: 未引用的局部变量
+RoomSearch.cpp(3403): warning C4101: “iAns”: 未引用的局部变量
+RoomSearch.cpp(3401): warning C4101: “hdc”: 未引用的局部变量
+RoomSearch.cpp(3400): warning C4101: “k”: 未引用的局部变量
+RoomSearch.cpp(3398): warning C4101: “pNewCom”: 未引用的局部变量
+RoomSearch.cpp(3397): warning C4101: “szPrint”: 未引用的局部变量
+RoomSearch.cpp(3399): warning C4101: “err”: 未引用的局部变量
+RoomSearch.cpp(3502): warning C4101: “iAns”: 未引用的局部变量
+RoomSearch.cpp(3499): warning C4101: “pNewCom”: 未引用的局部变量
+RoomSearch.cpp(3498): warning C4101: “szPrint”: 未引用的局部变量
+RoomSearch.cpp(3735): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+RoomSearch.cpp(3736): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+RoomSearch.cpp(3653): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: 参见“swprintf”的声明
+RoomSearch.cpp(3655): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: 参见“swprintf”的声明
+RoomSearch.cpp(3623): warning C4101: “iAns”: 未引用的局部变量
+RoomSearch.cpp(3619): warning C4101: “pNewCom”: 未引用的局部变量
+RoomSearch.cpp(3618): warning C4101: “szPrint”: 未引用的局部变量
+RoomSearch.cpp(4075): error C3861: “RankBui”: 找不到标识符
